@@ -1,0 +1,16 @@
+# 数据分析
+pandas>=1.5
+numpy>=1.23
+
+# 数据库连接
+SQLAlchemy>=1.4
+PyMySQL>=1.0
+
+# 环境变量
+python-dotenv>=0.21
+
+# 可视化
+pyecharts>=2.0
+
+# 运行环境
+notebook>=6.5
